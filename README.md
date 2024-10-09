@@ -1,4 +1,4 @@
-# assignment-MERN
+# Employee Management System (EMS) - MERN
 
 HOME PAGE
 
